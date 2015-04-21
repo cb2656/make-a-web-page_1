@@ -1,0 +1,103 @@
+
+.title {
+  font-size: 80px;  
+}
+h1 {
+  text-align: center;
+    color: Purple;
+    font-size: 45px;
+   }
+h2 {
+  font-size: 35px; 
+   margin: 10px;
+  }
+body {
+  font-size: 25px;
+	border-radius: 20px;
+	padding: 10px;
+  }
+.contents {
+  font-size: 25px; 
+  font-weight: bold; 
+  text-align: left; 
+  color: purple; 
+  background-color: gray;
+  margin-left: 400px;
+  }
+.contents {
+  height : 200px;
+  width : 250px;
+  border-radius: 25px;
+  height : 200px;
+  width : 225px;
+  border-radius: 25px;
+  }
+.Quiz {
+ text-align: center;
+ outline: 3px solid red !important;
+}
+.think  {
+  font-size: 23px; 
+  font-weight: bold; 
+  text-align: center;
+  color: blue; 
+  background-color: pink;
+  margin-left: 275px;
+}
+.think  {
+  height : 300px;
+  width : 800px;
+  border-radius: 25px;
+  height : 200px;
+  width : 500px;
+  border-radius: 25px;
+  }
+.tags {
+  font-size: 20px; 
+  font-weight: bold; 
+  text-align: center; 
+  color: black; 
+  background-color: orange;
+  margin-left: 275px;
+  }
+.tags {
+  height : 300px;
+  width : 500px;
+  border-radius: 25px;
+  height : 200px;
+  width : 500px;
+  border-radius: 25px;
+  }
+.more tags {
+  font-size: 22px; 
+  font-weight: bold; 
+  text-align: center; 
+  color: black; 
+  background-color: orange;
+  margin-left: 275px;
+}
+.more tags {
+height : 200px;
+  width : 500px;
+  border-radius: 50px;
+  height : 100px;
+  width : 500px;
+  border-radius: 25px;
+  } 
+* {
+   box-sizing: border-box;
+} 
+.app {
+    display: -webkit-flex;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+  
